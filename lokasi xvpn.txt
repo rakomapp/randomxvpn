@@ -1,0 +1,310 @@
+the Fastest Server
+United States
+US-Washington
+US-California
+US-California-San Francisco
+US-California-San Jose
+US-California-Los Angeles
+US-California-Los Angeles-57
+US-California-Los Angeles-19
+US-New York
+US-New York-Buffalo
+US-New York-New York City
+US-Oregon
+US-Oregon-37
+US-Oregon-4
+US-Arizona
+US-Arizona-Phoenix
+US-Arizona-Phoenix-22
+US-Arizona-Phoenix-36
+US-Virginia
+US-Virginia-37
+US-Virginia-4
+US-Illinois
+US-Illinois-Chicago
+US-Illinois-Chicago-24
+US-Illinois-Chicago-19
+US-Illinois-Chicago-21
+US-Illinois-Chicago-29
+US-Texas
+US-Texas-Dallas
+US-Ohio
+US-Ohio-37
+US-Ohio-4
+US-Washington D.C.
+US-Florida
+US-Florida-Miami
+Canada
+CA-Montreal
+CA-Toronto
+CA-Quebec
+Australia
+AU-Melbourne
+AU-Sydney
+AU-Sydney-4
+AU-Sydney-47
+Germany
+DE-Frankfurt
+DE-Frankfurt-32
+DE-Frankfurt-21
+DE-Frankfurt-30
+DE-Frankfurt-5
+DE-Frankfurt-4
+DE-Frankfurt-57
+DE-Frankfurt-2
+DE-Frankfurt-37
+DE-Nuremberg
+DE-Nuremberg-56
+DE-Nuremberg-30
+United Kingdom
+GB-London
+GB-London-52
+GB-London-36
+GB-London-8
+GB-London-26
+GB-London-37
+GB-London-5
+GB-London-21
+GB-London-38
+GB-London-57
+GB-London-32
+GB-London-4
+GB-Cardiff
+Russia
+RU-Moscow
+India
+IN-Bangalore
+IN-Chennai
+IN-Mumbai
+IN-Mumbai-37
+IN-Mumbai-4
+IN-Mumbai-53
+Netherlands
+NL-Amsterdam
+NL-Amsterdam-33
+NL-Amsterdam-8
+NL-Amsterdam-5
+NL-Amsterdam-21
+Singapore
+Singapore-21
+Singapore-5
+Singapore-37
+Singapore-4
+Finland
+FI-Helsinki
+Hungary
+AU-Video-N
+AU-Video-N-1
+AU-Video-N-2
+Argentina
+Austria
+AT-Wien
+BR-Video-N
+BR-Video-N-1
+BR-Video-N-2
+BR-Video-N-3
+BR-Video-N-4
+Bahrain
+Bangladesh
+Belgium
+BE-Brussels
+Brazil
+BR-Sao Paulo
+BR-Sao Paulo-24
+BR-Sao Paulo-38
+BR-Sao Paulo-4
+Bulgaria
+BG-Sofia
+BG-Sofia-26
+BG-Sofia-31
+Colombia
+Croatia
+Cyprus
+Czech Republic
+CZ-Prague
+CZ-Prague-26
+CZ-Prague-31
+Denmark
+DK-Copenhagen
+ES-Video-N
+ES-Video-N-1
+ES-Video-N-2
+Egypt
+Estonia
+France
+FR-Roubaix
+FR-Paris
+FR-Paris-33
+FR-Paris-37
+GB-Video-B
+GB-Video-B-1
+GB-Video-B-2
+GB-Video-B-3
+GB-Video-B-4
+GB-Video-B-5
+GB-Video-B-6
+GB-Video-B-7
+GB-Video-B-8
+GB-Video-B-9
+GB-Video-B-10
+GB-Video-B-11
+GB-Video-B-12
+GB-Video-B-13
+GB-Video-B-14
+GB-Video-B-15
+GB-Video-B-16
+GB-Video-B-17
+GB-Video-B-18
+GB-Video-N
+GB-Video-N-1
+GB-Video-N-2
+GB-Video-iV
+GB-Video-iV-1
+GB-Video-iV-2
+GB-Video-iV-3
+GB-Video-iV-4
+GB-Video-iV-5
+Greece
+Hong Kong
+IN-PUBG
+IN-PUBG-1
+IN-PUBG-2
+IN-PUBG-3
+IN-PUBG-4
+IN-PUBG-5
+IN-PUBG-6
+IN-PUBG-7
+IN-PUBG-8
+IN-PUBG-9
+IN-PUBG-10
+IN-Video-A
+IN-Video-A-1
+IN-Video-A-2
+IN-Video-A-3
+IN-Video-A-4
+IN-Video-Hot⭐(Web)
+IN-Video-Hot⭐(Web)-1
+IN-Video-Hot⭐(Web)-2
+IN-Video-Hot⭐(Web)-3
+IN-Video-Hot⭐(Web)-Premium
+IN-Video-Hot⭐(Web)-Premium-1
+IN-Video-Hot⭐(Web)-Premium-2
+IN-Video-Hot⭐(Web)-Premium-3
+Iceland
+Indonesia
+ID-Jakarta
+Ireland
+IE-Dublin
+IE-Dublin-4
+IE-Dublin-28
+Israel
+Italy
+IT-Milan
+JP-Video-N
+Japan
+JP-Tokyo
+JP-Tokyo-6
+JP-Tokyo-37
+JP-Tokyo-4
+JP-Tokyo-38
+JP-Tokyo-24
+KR-Video-T
+KR-Video-T-1
+KR-Video-T-2
+Kazakhstan
+KZ-Almaty
+LOL Wild Rift
+LOL WR-Japan
+LOL WR-JP-Tokyo
+LOL WR-JP-Tokyo-6
+LOL WR-JP-Tokyo-37
+LOL WR-JP-Tokyo-4
+LOL WR-JP-Tokyo-38
+LOL WR-JP-Tokyo-24
+LOL WR-KR
+LOL WR-KR-Seoul-4
+LOL WR-KR-Video-T-1
+LOL WR-KR-Video-T-2
+LOL WR-Singapore
+LOL WR-Singapore-21
+LOL WR-Singapore-5
+LOL WR-Singapore-37
+LOL WR-Singapore-4
+LOL WR-Malaysia
+LOL WR-Thailand
+LOL WR-TH-Bangkok
+LOL WR-TH-Bangkok-41
+LOL WR-TH-Bangkok-40
+LOL WR-Indonesia
+LOL WR-ID-Jakarta
+LOL WR-Philippines
+Latvia
+Lithuania
+Luxembourg
+Malaysia
+Mexico
+Moldova
+New Zealand
+New Zealand-49
+New Zealand-10
+Norway
+PUBG
+Philippines
+Poland
+PL-Warsaw
+PL-Warsaw-32
+PL-Warsaw-33
+Portugal
+Roblox
+Romania
+RO-Bucharest
+Serbia
+RS-Belgrade
+Slovakia
+SK-Bratislava
+South Korea
+KR-Seoul
+KR-Seoul-4
+KR-Seoul-37
+KR-Seoul-2
+SouthAfrica
+SouthAfrica-Johannesburg
+Spain
+ES-Madrid
+ES-Madrid-46
+ES-Madrid-26
+Sweden
+SE-Stockholm
+Switzerland
+CH-Zurich
+Taiwan
+Thailand
+TH-Bangkok
+TH-Bangkok-41
+TH-Bangkok-40
+Turkey
+Turkey-54
+Turkey-24
+UAE
+AE-Dubai
+US-Video-A
+US-Video-A-1
+US-Video-A-2
+US-Video-A-3
+US-Video-A-4
+US-Video-A-5
+US-Video-A-6
+US-Video-H
+US-Video-H-1
+US-Video-H-2
+US-Video-N
+US-Video-N-1
+US-Video-N-2
+US-Video-N-3
+US-Video-N-4
+US-Video-N-5
+US-Video-N-6
+US-Video-N-7
+US-Video-N-8
+Ukraine
+Vietnam
